@@ -1,0 +1,18 @@
+[
+      {
+        "mode": "ADD",
+        "result": "infinity_swords:infused_sword",
+        "catalyst": "infinity_swords:combined_blades",
+        "energy": 10000000,
+        "tier": 3,
+        "ingredients": [
+            "extendedcrafting:the_ultimate_nugget",
+            "eidolon:shadow_gem",
+            "ae2extras:16m_cell_component",
+            "thermal:upgrade_augment_3",
+            "useless_sword:life_draining_sword",
+            "useless_sword:gaia_claymore",
+	        "aoa3:moon_destroyer",
+	        "draconicevolution:chaotic_core"
+		]
+	  },

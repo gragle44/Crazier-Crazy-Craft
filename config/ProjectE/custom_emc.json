@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "item": "mysticalagriculture:supremium_essence",
+      "emc": 2048
+    },
+    {
+      "item": "appliedenergistics2:fluix_crystal",
+      "emc": 512
+    },
+    {
+      "item": "minecraft:air",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:purified_certus_quartz_crystal",
+      "emc": 128
+    },
+    {
+      "item": "marvel:titanium_ingot",
+      "emc": 1028
+    },
+    {
+      "item": "appliedenergistics2:sky_stone_block",
+      "emc": 256
+    },
+    {
+      "item": "minecraft:gold_block",
+      "emc": 18432
+    },
+    {
+      "item": "minecraft:redstone_block",
+      "emc": 576
+    },
+    {
+      "item": "appliedenergistics2:1k_cell_component",
+      "emc": 0
+    },
+    {
+      "item": "fluxnetworks:flux_dust",
+      "emc": 64
+    },
+    {
+      "item": "chaosawakens:titanium_ingot",
+      "emc": 196416
+    },
+    {
+      "item": "threecore:titanium_ingot",
+      "emc": 196416
+    }
+  ]
+}

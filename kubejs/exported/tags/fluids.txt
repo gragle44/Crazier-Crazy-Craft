@@ -1,0 +1,502 @@
+To refresh this file, delete it and run /reload command again! Last updated: Sep 22, 2021 8:29:43 PM
+
+#tconstruct:molten_manyullyn
+- tconstruct:molten_manyullyn
+- tconstruct:flowing_molten_manyullyn
+
+#tconstruct:molten_invar
+- tconstruct:molten_invar
+- tconstruct:flowing_molten_invar
+
+#tconstruct:sky_slime
+- tconstruct:sky_slime
+- tconstruct:flowing_sky_slime
+
+#aoa3:candied_water
+- aoa3:candied_water
+- aoa3:candied_water_flowing
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- lycanitesmobs:ooze
+- lycanitesmobs:ooze_flowing
+- lycanitesmobs:rabbitooze
+- lycanitesmobs:rabbitooze_flowing
+- lycanitesmobs:acid
+- lycanitesmobs:acid_flowing
+- lycanitesmobs:sharacid
+- lycanitesmobs:sharacid_flowing
+- lycanitesmobs:poison
+- lycanitesmobs:poison_flowing
+- lycanitesmobs:vesspoison
+- lycanitesmobs:vesspoison_flowing
+- aoa3:candied_water
+- aoa3:candied_water_flowing
+- aoa3:clear_water
+- aoa3:clear_water_flowing
+- securitycraft:fake_water
+- securitycraft:flowing_fake_water
+
+#tconstruct:molten_porcelain
+- tconstruct:molten_porcelain
+- tconstruct:flowing_molten_porcelain
+
+#tconstruct:scorched_stone
+- tconstruct:scorched_stone
+- tconstruct:flowing_scorched_stone
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#tconstruct:molten_rose_gold
+- tconstruct:molten_rose_gold
+- tconstruct:flowing_molten_rose_gold
+
+#forge:pink_slime
+- industrialforegoing:pink_slime
+- industrialforegoing:pink_slime_fluid
+
+#forge:molten_ornamyte
+- jaopca:molten.ornamyte
+
+#tconstruct:blazing_blood
+- tconstruct:blazing_blood
+- tconstruct:flowing_blazing_blood
+
+#tconstruct:molten_platinum
+- tconstruct:molten_platinum
+- tconstruct:flowing_molten_platinum
+
+#tconstruct:molten_obsidian
+- tconstruct:molten_obsidian
+- tconstruct:flowing_molten_obsidian
+
+#forge:superheated_sodium
+- biggerreactors:superheated_sodium
+
+#tconstruct:earth_slime
+- tconstruct:earth_slime
+- tconstruct:flowing_earth_slime
+
+#tconstruct:liquid_soul
+- tconstruct:liquid_soul
+- tconstruct:flowing_liquid_soul
+
+#aoa3:toxic_waste
+- aoa3:toxic_waste
+- aoa3:toxic_waste_flowing
+
+#forge:steam
+- biggerreactors:fluid_irradiated_steam
+
+#forge:molten_jewelyte
+- jaopca:molten.jewelyte
+
+#forge:glowstone
+- thermal:glowstone
+
+#forge:molten_jade
+- jaopca:molten.jade
+
+#forge:magma
+- cyclic:magma
+- #tconstruct:magma
+
+#forge:molten_lapis
+- jaopca:molten.lapis
+
+#forge:sludge
+- industrialforegoing:sludge
+- industrialforegoing:sludge_fluid
+
+#forge:molten_certus_quartz
+- jaopca:molten.certus_quartz
+
+#tconstruct:molten_silver
+- tconstruct:molten_silver
+- tconstruct:flowing_molten_silver
+
+#forge:molten_cinnabar
+- jaopca:molten.cinnabar
+
+#tconstruct:molten_soulsteel
+- tconstruct:molten_soulsteel
+- tconstruct:flowing_molten_soulsteel
+
+#forge:crude_oil
+- thermal:crude_oil
+
+#forge:molten_ruby
+- jaopca:molten.ruby
+
+#forge:redstone
+- thermal:redstone
+
+#tconstruct:molten_aluminum
+- tconstruct:molten_aluminum
+- tconstruct:flowing_molten_aluminum
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- lycanitesmobs:moglava
+- lycanitesmobs:moglava_flowing
+- securitycraft:fake_lava
+- securitycraft:flowing_fake_lava
+
+#forge:molten_mystite
+- jaopca:molten.mystite
+
+#tconstruct:seared_stone
+- tconstruct:seared_stone
+- tconstruct:flowing_seared_stone
+
+#tconstruct:molten_iron
+- tconstruct:molten_iron
+- tconstruct:flowing_molten_iron
+
+#tconstruct:molten_uranium
+- tconstruct:molten_uranium
+- tconstruct:flowing_molten_uranium
+
+#tconstruct:molten_glass
+- tconstruct:molten_glass
+- tconstruct:flowing_molten_glass
+
+#forge:molten_sulfur
+- jaopca:molten.sulfur
+
+#tconstruct:molten_steel
+- tconstruct:molten_steel
+- tconstruct:flowing_molten_steel
+
+#forge:molten_emberstone
+- jaopca:molten.emberstone
+
+#forge:ender
+- thermal:ender
+
+#forge:molten_elecanium
+- jaopca:molten.elecanium
+
+#forge:molten_varsium
+- jaopca:molten.varsium
+
+#tconstruct:molten_ender
+- tconstruct:molten_ender
+- tconstruct:flowing_molten_ender
+
+#tconstruct:molten_nickel
+- tconstruct:molten_nickel
+- tconstruct:flowing_molten_nickel
+
+#forge:latex
+- industrialforegoing:latex
+- industrialforegoing:latex_fluid
+- thermal:latex
+
+#tconstruct:molten_tin
+- tconstruct:molten_tin
+- tconstruct:flowing_molten_tin
+
+#tconstruct:molten_quartz
+- tconstruct:molten_quartz
+- tconstruct:flowing_molten_quartz
+
+#tconstruct:molten_osmium
+- tconstruct:molten_osmium
+- tconstruct:flowing_molten_osmium
+
+#forge:molten_crystallite
+- jaopca:molten.crystallite
+
+#forge:biomass
+- cyclic:biomass
+
+#tconstruct:molten_slimesteel
+- tconstruct:molten_slimesteel
+- tconstruct:flowing_molten_slimesteel
+
+#forge:molten_ghastly
+- jaopca:molten.ghastly
+
+#tconstruct:molten_debris
+- tconstruct:molten_debris
+- tconstruct:flowing_molten_debris
+
+#tconstruct:molten_cobalt
+- tconstruct:molten_cobalt
+- tconstruct:flowing_molten_cobalt
+
+#forge:xpjuice
+- mob_grinding_utils:fluid_xp
+
+#forge:sewage
+- industrialforegoing:sewage
+- industrialforegoing:sewage_fluid
+
+#forge:molten_rosite
+- jaopca:molten.rosite
+
+#forge:molten_limonite
+- jaopca:molten.limonite
+
+#tconstruct:molten_emerald
+- tconstruct:molten_emerald
+- tconstruct:flowing_molten_emerald
+
+#forge:molten_bloodstone
+- jaopca:molten.bloodstone
+
+#tconstruct:slime
+- #forge:slime
+- #tconstruct:sky_slime
+- #tconstruct:ender_slime
+
+#tconstruct:molten_tungsten
+- tconstruct:molten_tungsten
+- tconstruct:flowing_molten_tungsten
+
+#tconstruct:blood
+- tconstruct:blood
+- tconstruct:flowing_blood
+
+#forge:experience
+- mob_grinding_utils:fluid_xp
+- industrialforegoing:essence?
+- pneumaticcraft:memory_essence?
+- cofh_core:experience?
+- industrialforegoing:essence
+- industrialforegoing:essence_fluid
+- cyclic:xpjuice
+- cofh_core:experience
+
+#forge:slime
+- cyclic:slime
+- #tconstruct:earth_slime
+
+#forge:molten_ironwood
+- jaopca:molten.ironwood
+
+#tconstruct:molten_constantan
+- tconstruct:molten_constantan
+- tconstruct:flowing_molten_constantan
+
+#tconstruct:molten_lead
+- tconstruct:molten_lead
+- tconstruct:flowing_molten_lead
+
+#tconstruct:molten_clay
+- tconstruct:molten_clay
+- tconstruct:flowing_molten_clay
+
+#tconstruct:molten_gold
+- tconstruct:molten_gold
+- tconstruct:flowing_molten_gold
+
+#forge:molten_baronyte
+- jaopca:molten.baronyte
+
+#forge:molten_shyrestone
+- jaopca:molten.shyrestone
+
+#forge:creosote
+- thermal:creosote
+
+#appliedenergistics2:blacklisted/fluid_annihilation_plane
+
+#tconstruct:molten_netherite
+- tconstruct:molten_netherite
+- tconstruct:flowing_molten_netherite
+
+#tconstruct:molten_pig_iron
+- tconstruct:molten_pig_iron
+- tconstruct:flowing_molten_pig_iron
+
+#forge:molten_amethyst
+- jaopca:molten.amethyst
+
+#tconstruct:molten_bronze
+- tconstruct:molten_bronze
+- tconstruct:flowing_molten_bronze
+
+#forge:molten_gemenyte
+- jaopca:molten.gemenyte
+
+#forge:molten_blazium
+- jaopca:molten.blazium
+
+#forge:biofuel
+- industrialforegoing:biofuel
+- industrialforegoing:biofuel_fluid
+
+#tconstruct:molten_tinkers_bronze
+- tconstruct:molten_tinkers_bronze
+- tconstruct:flowing_molten_tinkers_bronze
+
+#twilightforest:fire_jet_fuel
+- #minecraft:lava
+
+#forge:molten_apatite
+- jaopca:molten.apatite
+
+#tconstruct:molten_electrum
+- tconstruct:molten_electrum
+- tconstruct:flowing_molten_electrum
+
+#tconstruct:molten_pewter
+- tconstruct:molten_pewter
+- tconstruct:flowing_molten_pewter
+
+#tconstruct:molten_brass
+- tconstruct:molten_brass
+- tconstruct:flowing_molten_brass
+
+#forge:meat
+- industrialforegoing:meat
+- industrialforegoing:meat_fluid
+
+#forge:molten_shyregem
+- jaopca:molten.shyregem
+
+#tconstruct:molten_copper
+- tconstruct:molten_copper
+- tconstruct:flowing_molten_copper
+
+#tconstruct:ender_slime
+- tconstruct:ender_slime
+- tconstruct:flowing_ender_slime
+
+#forge:molten_niter
+- jaopca:molten.niter
+
+#tconstruct:magma
+- tconstruct:magma
+- tconstruct:flowing_magma
+
+#tconstruct:molten_diamond
+- tconstruct:molten_diamond
+- tconstruct:flowing_molten_diamond
+
+#forge:potion
+- cofh_core:potion
+
+#twilightforest:portal_fluid
+- #minecraft:water
+
+#tconstruct:metal_like
+- #tconstruct:molten_emerald
+- #tconstruct:molten_quartz
+- #tconstruct:molten_diamond
+- #tconstruct:molten_iron
+- #tconstruct:molten_gold
+- #tconstruct:molten_copper
+- #tconstruct:molten_cobalt
+- #tconstruct:molten_debris
+- #tconstruct:molten_slimesteel
+- #tconstruct:molten_tinkers_bronze
+- #tconstruct:molten_rose_gold
+- #tconstruct:molten_pig_iron
+- #tconstruct:molten_manyullyn
+- #tconstruct:molten_hepatizon
+- #tconstruct:molten_queens_slime
+- #tconstruct:molten_soulsteel
+- #tconstruct:molten_netherite
+- #tconstruct:molten_knightslime
+- #tconstruct:molten_tin
+- #tconstruct:molten_aluminum
+- #tconstruct:molten_lead
+- #tconstruct:molten_silver
+- #tconstruct:molten_nickel
+- #tconstruct:molten_zinc
+- #tconstruct:molten_platinum
+- #tconstruct:molten_tungsten
+- #tconstruct:molten_osmium
+- #tconstruct:molten_uranium
+- #tconstruct:molten_bronze
+- #tconstruct:molten_brass
+- #tconstruct:molten_electrum
+- #tconstruct:molten_invar
+- #tconstruct:molten_constantan
+- #tconstruct:molten_pewter
+- #tconstruct:molten_steel
+
+#tconstruct:slimelike
+- #forge:magma
+- #tconstruct:blood
+- #tconstruct:molten_ender
+- #tconstruct:slime
+
+#tconstruct:molten_zinc
+- tconstruct:molten_zinc
+- tconstruct:flowing_molten_zinc
+
+#forge:molten
+- jaopca:molten.amethyst
+- jaopca:molten.apatite
+- jaopca:molten.baronyte
+- jaopca:molten.blazium
+- jaopca:molten.bloodstone
+- jaopca:molten.certus_quartz
+- jaopca:molten.cinnabar
+- jaopca:molten.crystallite
+- jaopca:molten.draconium
+- jaopca:molten.elecanium
+- jaopca:molten.emberstone
+- jaopca:molten.gemenyte
+- jaopca:molten.ghastly
+- jaopca:molten.ghoulish
+- jaopca:molten.ironwood
+- jaopca:molten.jade
+- jaopca:molten.jewelyte
+- jaopca:molten.knightmetal
+- jaopca:molten.lapis
+- jaopca:molten.limonite
+- jaopca:molten.lyon
+- jaopca:molten.mystite
+- jaopca:molten.niter
+- jaopca:molten.ornamyte
+- jaopca:molten.rosite
+- jaopca:molten.ruby
+- jaopca:molten.sapphire
+- jaopca:molten.shyregem
+- jaopca:molten.shyrestone
+- jaopca:molten.sulfur
+- jaopca:molten.varsium
+
+#forge:molten_lyon
+- jaopca:molten.lyon
+
+#forge:molten_ghoulish
+- jaopca:molten.ghoulish
+
+#forge:life
+- bloodmagic:life_essence_fluid
+- bloodmagic:life_essence_fluid_flowing
+
+#forge:molten_knightmetal
+- jaopca:molten.knightmetal
+
+#tconstruct:molten_queens_slime
+- tconstruct:molten_queens_slime
+- tconstruct:flowing_molten_queens_slime
+
+#forge:molten_sapphire
+- jaopca:molten.sapphire
+
+#tconstruct:molten_hepatizon
+- tconstruct:molten_hepatizon
+- tconstruct:flowing_molten_hepatizon
+
+#forge:molten_draconium
+- jaopca:molten.draconium
+
+#forge:honey
+- cyclic:honey
+- cofh_core:honey
+
+#tconstruct:molten_knightslime
+- tconstruct:molten_knightslime
+- tconstruct:flowing_molten_knightslime

@@ -1,0 +1,9 @@
+
+[Chickens]
+	#Render Nest labels for named chickens.  Default: true
+	renderLabels = true
+	#Render item drops in the Nest.  Default: false
+	renderItems = false
+	#Animate chickens in JEI.  Default: false  WIP: lighting?
+	renderJEIAnim = false
+

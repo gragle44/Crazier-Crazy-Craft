@@ -1,0 +1,21 @@
+
+[Compatibility]
+
+	[Compatibility.biomesoplenty]
+		#Whether sundamage should be applied to vampires in this biome or not
+		disable_sundamage_ominous_woods = true
+		#BOP Hell Blood * factor = Vampirism Blood
+		#Range: 0.0 ~ 10.0
+		hell_blood_conversion_factor = 0.4
+		enable_compat_biomesoplenty = true
+
+	[Compatibility.vampirism]
+		disable_integrations_version_check = false
+		enable_compat_vampirism = true
+
+	[Compatibility.evilcraft]
+		enable_compat_evilcraft = true
+
+	[Compatibility.waila]
+		enable_compat_waila = true
+

@@ -1,0 +1,32 @@
+
+[Collision]
+	"Allow Bush Collision" = true
+
+["World Gen"]
+	"Allow Bush World Generation" = true
+
+#Make sure World Generation is on true
+["World Gen Specific"]
+	"Coal Bush Gen" = true
+	"Iron Bush Gen" = false
+	"Gold Bush Gen" = false
+	"Redstone Bush Gen" = false
+	"Diamond Bush Gen" = false
+	"Experience Bush Gen" = true
+
+["Copper Bush"]
+	#Active with: Mekanism
+	"Copper Bush Gen" = true
+
+["Osmium Bush"]
+	#Active with: Mekanism
+	"Osmium Bush Gen" = false
+
+["Tin Bush"]
+	#Active with: Mekanism
+	"Tin Bush Gen" = true
+
+["Zinc Bush"]
+	#Active with: Create
+	"Zinc Bush Gen" = false
+
