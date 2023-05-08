@@ -1,4 +1,4 @@
-# Crazier-Crazy-Craft
+# Crazier Crazy Craft
 This modpack aims to recreate the feel of Crazy Craft 4. Featuring mods such as Witchery: Rewitched(Witchery recreation), Chaos Awakens(Orespawn recreation), and many others. I made this pack with performance in mind. It should be able to run easily on lower-end devices. Thanks for playing! 
 
 ✔True Crazy Craft experience
